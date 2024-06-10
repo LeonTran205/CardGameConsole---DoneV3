@@ -1,0 +1,7 @@
+﻿  Card.cpp
+G:\UniversityYear2 CardGame\CardGameConsole\CardGameConsole\Card.cpp(773): warning C4715: 'Card::allDeckTotal': not all control paths return a value
+G:\UniversityYear2 CardGame\CardGameConsole\CardGameConsole\Card.cpp(836): warning C4715: 'Card::handTotal': not all control paths return a value
+G:\UniversityYear2 CardGame\CardGameConsole\CardGameConsole\Card.cpp(818): warning C4715: 'Card::allTotal': not all control paths return a value
+G:\UniversityYear2 CardGame\CardGameConsole\CardGameConsole\Card.cpp(796): warning C4715: 'Card::allHandTotal': not all control paths return a value
+G:\UniversityYear2 CardGame\CardGameConsole\CardGameConsole\Card.cpp(854): warning C4715: 'Card::deckTotal': not all control paths return a value
+  CardGameConsole.vcxproj -> G:\UniversityYear2 CardGame\CardGameConsole\Debug\CardGameConsole.exe
